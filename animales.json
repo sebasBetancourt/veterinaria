@@ -1,0 +1,24 @@
+[
+    {
+        "nombre": "marco",
+        "especie": "gato",
+        "edad": "2",
+        "peso": "25",
+        "estado_salud":{
+            "sano": false,
+            "enfermo": true,
+            "tratamiento":false
+        }
+    },
+    {
+        "nombre": "marco",
+        "especie": "gato",
+        "edad": "2",
+        "peso": "25",
+        "estado_salud":{
+            "sano": false,
+            "enfermo": true,
+            "tratamiento":false
+        }
+    }
+]
